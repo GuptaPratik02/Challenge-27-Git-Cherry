@@ -1,4 +1,0 @@
-// C++ example of addition of 2 numbers
-int a , int b;
-std::cin >> a >> b;
-std::cout<< a + b;
