@@ -1,0 +1,4 @@
+# Addition of 2 numbers in python
+a = int(input())
+b = int(input())
+print(a+b)
